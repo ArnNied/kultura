@@ -5,9 +5,11 @@
 **2. Ekstrak file tersebut menggunakan [WinRAR](https://www.win-rar.com/download.html) atau [7-Zip](https://www.7-zip.org/download.html)**
 
 Pilih salah satu
+
 ![extract](./markdown/windows/extract.png)
 
 Sesudah ekstrak
+
 ![extract2](./markdown/windows/extract2.png)
 
 **3. Buka folder yang sudah di ekstrak**
