@@ -1,0 +1,520 @@
+[
+  {
+    "title": "Kontributor",
+    "content": [
+      {
+        "author": {
+          "name": "Ibnu Al Farobi, M. Kom",
+          "url": ""
+        },
+        "material": { "name": "Dosen Pembimbing" }
+      },
+      {
+        "author": {
+          "name": "Nanang Nuryadi, M.Kom",
+          "url": ""
+        },
+        "material": { "name": "Dosen Pembimbing" }
+      },
+      {
+        "author": {
+          "name": "Alfiansyah Achmad",
+          "url": ""
+        },
+        "material": { "name": "\"Konsultan\", Playtester" }
+      },
+      {
+        "material": { "name": "Dan lebih banyak lagi..." }
+      }
+    ]
+  },
+  {
+    "title": "Sprite & Tekstur",
+    "content": [
+      {
+        "source": "itch.io",
+        "author": {
+          "name": "Penzilla Design",
+          "url": "https://penzilla.itch.io"
+        },
+        "material": {
+          "name": "Hooded Protagonist",
+          "url": "https://penzilla.itch.io/hooded-protagonist"
+        },
+        "license": {
+          "name": "Free to use with attribution",
+          "url": ""
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "itch.io",
+        "author": {
+          "name": "brullov",
+          "url": "https://brullov.itch.io"
+        },
+        "material": {
+          "name": "2D Environment Platformer Asset Pack: Castle of Despair",
+          "url": "https://brullov.itch.io/2d-platformer-asset-pack-castle-of-despair"
+        },
+        "license": {
+          "name": "Free to use",
+          "url": ""
+        },
+        "modifications": "Made a custom spritesheet from the original sprites"
+      },
+      {
+        "source": "itch.io",
+        "author": {
+          "name": "LuizMelo",
+          "url": "https://luizmelo.itch.io"
+        },
+        "material": {
+          "name": "Monsters Creatures Fantasy",
+          "url": "https://luizmelo.itch.io/monsters-creatures-fantasy"
+        },
+        "license": {
+          "name": "CC0 1.0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "itch.io",
+        "author": {
+          "name": "Cainos",
+          "url": "https://cainos.itch.io"
+        },
+        "material": {
+          "name": "Pixel Art Platformer - Village Props",
+          "url": "https://cainos.itch.io/pixel-art-platformer-village-props"
+        },
+        "license": {
+          "name": "Free to use",
+          "url": ""
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "itch.io",
+        "author": {
+          "name": "Eder Muniz",
+          "url": "https://edermunizz.itch.io"
+        },
+        "material": {
+          "name": "Free Pixel Art Forest",
+          "url": "https://edermunizz.itch.io/free-pixel-art-forest"
+        },
+        "license": {
+          "name": "Custom License",
+          "url": "https://edermunizlicense.carrd.co/"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "itch.io",
+        "author": {
+          "name": "Cup Nooble",
+          "url": "https://cupnooble.itch.io"
+        },
+        "material": {
+          "name": "Sprout Lands UI Pack",
+          "url": "https://cupnooble.itch.io/sprout-lands-ui-pack"
+        },
+        "license": {
+          "name": "Free to use",
+          "url": ""
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "itch.io",
+        "author": {
+          "name": "h0ndred",
+          "url": "https://h0ndred.itch.io"
+        },
+        "material": {
+          "name": "Sprout Lands UI Pack",
+          "url": "https://h0ndred.itch.io/mini-interior-asset-pack-bedroom-bathroom"
+        },
+        "license": {
+          "name": "Free to use with attribution",
+          "url": ""
+        },
+        "modifications": "-"
+      }
+    ]
+  },
+  {
+    "title": "SFX",
+    "content": [
+      {
+        "source": "Pixabay",
+        "author": {
+          "name": "Amphibio",
+          "url": "https://freesound.org/people/Amphibio/"
+        },
+        "material": {
+          "name": "Door Close",
+          "url": "https://freesound.org/people/Amphibio/sounds/166194/"
+        },
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Freesound",
+        "author": {
+          "name": "Keweldog",
+          "url": "https://freesound.org/people/keweldog/"
+        },
+        "material": {
+          "name": "Tearing Paper",
+          "url": "https://freesound.org/people/keweldog/sounds/181772/"
+        },
+        "license": {
+          "name": "CC0 1.0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Pixabay",
+        "author": {
+          "name": "MilanWulf",
+          "url": "https://pixabay.com/users/milanwulf-2066474/"
+        },
+        "material": {
+          "name": "Click Button",
+          "url": "https://pixabay.com/sound-effects/click-button-166324/"
+        },
+        "license": {
+          "name": "Pixabay License",
+          "url": "https://pixabay.com/service/license-summary/"
+        },
+        "modifications": "Split into 2 files for different sounds, can be identified by the 2 \"peak\" in the original waveform."
+      },
+      {
+        "source": "Freesound",
+        "author": {
+          "name": "Kostas17",
+          "url": "https://freesound.org/people/Kostas17/"
+        },
+        "material": {
+          "name": "Wooden Object Place",
+          "url": "https://freesound.org/people/Kostas17/sounds/537709/"
+        },
+        "license": {
+          "name": "CC BY 3.0",
+          "url": "https://creativecommons.org/licenses/by/3.0/"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Freesound",
+        "author": {
+          "name": "Folamh3",
+          "url": "https://freesound.org/people/Folamh3/"
+        },
+        "material": {
+          "name": "Footstep 1",
+          "url": "https://freesound.org/people/Folamh3/sounds/335257/"
+        },
+        "license": {
+          "name": "CC0 1.0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Freesound",
+        "author": {
+          "name": "1bob",
+          "url": "https://freesound.org/people/1bob/"
+        },
+        "material": {
+          "name": "Death Sound",
+          "url": "https://freesound.org/people/1bob/sounds/717768/"
+        },
+        "license": {
+          "name": "CC0 1.0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Freesound",
+        "author": {
+          "name": "unadamlar",
+          "url": "https://freesound.org/people/unadamlar/"
+        },
+        "material": {
+          "name": "Correct Choice",
+          "url": "https://freesound.org/people/unadamlar/sounds/476178/"
+        },
+        "license": {
+          "name": "CC0 1.0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Freesound",
+        "author": {
+          "name": "unadamlar",
+          "url": "https://freesound.org/people/unadamlar/"
+        },
+        "material": {
+          "name": "GoodResult",
+          "url": "https://freesound.org/people/unadamlar/sounds/341985/"
+        },
+        "license": {
+          "name": "CC0 1.0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Freesound",
+        "author": {
+          "name": "LittleRobotSoundFactory",
+          "url": "https://freesound.org/people/LittleRobotSoundFactory/"
+        },
+        "material": {
+          "name": "Jingle Lose 00",
+          "url": "https://freesound.org/people/LittleRobotSoundFactory/sounds/270329/"
+        },
+        "license": {
+          "name": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        "modifications": "-"
+      }
+    ]
+  },
+  {
+    "title": "Fonts",
+    "content": [
+      {
+        "source": "itch.io",
+        "author": {
+          "name": "Daniel Linssen",
+          "url": "https://managore.itch.io/"
+        },
+        "material": {
+          "name": "m6x11",
+          "url": "https://managore.itch.io/m6x11"
+        },
+        "license": {
+          "name": "Free to use with attribution",
+          "url": ""
+        },
+        "modifications": "-"
+      }
+    ]
+  },
+  {
+    "title": "Musik",
+    "content": [
+      {
+        "source": "Pixabay",
+        "author": {
+          "name": "Gavin Nellist",
+          "url": "https://pixabay.com/users/gavinnellist-25774004/"
+        },
+        "material": {
+          "name": "Fantasy Relaxation Music",
+          "url": "https://pixabay.com/music/fantasy-dreamy-childrens-fantasy-relaxation-music-111778/"
+        },
+        "license": {
+          "name": "Pixabay License",
+          "url": "https://pixabay.com/service/license-summary/"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Pixabay",
+        "author": {
+          "name": "Gavin Nellist",
+          "url": "https://pixabay.com/users/gavinnellist-25774004/"
+        },
+        "material": {
+          "name": "Ready To Go",
+          "url": "https://pixabay.com/music/main-title-ready-to-go-109792/"
+        },
+        "license": {
+          "name": "Pixabay License",
+          "url": "https://pixabay.com/service/license-summary/"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Pixabay",
+        "author": {
+          "name": "Gavin Nellist",
+          "url": "https://pixabay.com/users/gavinnellist-25774004/"
+        },
+        "material": {
+          "name": "Preparation",
+          "url": "https://pixabay.com/music/main-title-preparation-109794/"
+        },
+        "license": {
+          "name": "Pixabay License",
+          "url": "https://pixabay.com/service/license-summary/"
+        },
+        "modifications": "-"
+      }
+    ]
+  },
+  {
+    "title": "Gambar",
+    "content": [
+      {
+        "source": "Openverse",
+        "author": {
+          "name": "Naval Scene",
+          "url": ""
+        },
+        "material": {
+          "name": "Kebaya Encim Betawi 20240622 121405",
+          "url": ""
+        },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Openverse",
+        "author": {
+          "name": "Herusutimbul",
+          "url": ""
+        },
+        "material": {
+          "name": "Warna Warni Ondel Ondel Betawi",
+          "url": ""
+        },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Openverse",
+        "author": {
+          "name": "Swarabakti",
+          "url": ""
+        },
+        "material": {
+          "name": "Bir Pletok (closeup, white bg)",
+          "url": ""
+        },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Openverse",
+        "author": {
+          "name": "Piknikdong",
+          "url": ""
+        },
+        "material": {
+          "name": "Gado gado jakarta",
+          "url": ""
+        },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Openverse",
+        "author": {
+          "name": "Sakurai Midori",
+          "url": ""
+        },
+        "material": {
+          "name": "Gado gado ulek",
+          "url": ""
+        },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Openverse",
+        "author": {
+          "name": "Windi Utari",
+          "url": ""
+        },
+        "material": {
+          "name": "BUMBU GADO-GADO",
+          "url": ""
+        },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Openverse",
+        "author": {
+          "name": "Hzu Hzu",
+          "url": ""
+        },
+        "material": {
+          "name": "Kue cucur.2",
+          "url": ""
+        },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Openverse",
+        "author": {
+          "name": "Akhmad Fauzi",
+          "url": ""
+        },
+        "material": {
+          "name": "File:Masjid Luar Batang - panoramio.jpg",
+          "url": ""
+        },
+        "license": {
+          "name": "CC BY 3.0",
+          "url": "https://creativecommons.org/licenses/by/3.0?ref=openverse"
+        },
+        "modifications": "-"
+      },
+      {
+        "source": "Openverse",
+        "author": {
+          "name": "Tania Shab'hatiani",
+          "url": ""
+        },
+        "material": {
+          "name": "Rumah Adat Kebaya dari Jakarta",
+          "url": ""
+        },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
+        },
+        "modifications": "-"
+      }
+    ]
+  }
+]
