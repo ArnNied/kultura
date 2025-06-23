@@ -2,11 +2,11 @@
 
 **1. Unduh versi terbaru melalui tautan berikut ini: [Unduh Game](https://github.com/ArnNied/kultura/releases/latest/download/kultura.apk)**
 
-**2a. Buka/jalankan .apk tersebut melalui rak notifikasi**
+**2a. Buka/jalankan .apk tersebut melalui rak notifikasi, ATAU**
 
 ![notification](./markdown/android/notification.jpg)
 
-**2b. Temukan file .apk tersebut melalui file manager masing masing perangkat, lalu buka/jalankan, ATAU**
+**2b. Temukan file .apk tersebut melalui file manager masing masing perangkat, lalu buka/jalankan**
 
 ![locate](./markdown/android/locate.jpg)
 
