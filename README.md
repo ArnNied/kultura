@@ -6,7 +6,7 @@ Game edukasi Kultura dibuat oleh **Andrien Wiandyano** sebagai bahan penulisan s
 
 ## Proses Instalasi (Cara Bermain)
 
-**Kultura** tersedia untuk platform windows dan android yang bisa di unduh melalui tautan dibawah ini untuk mengunduh versi terbaru _atau_ dengan mengakses halaman [release](https://github.com/ArnNied/kultura/releases) untuk menginstal versi spesifik:
+**Kultura** tersedia untuk platform Windows dan Android yang bisa di akses di halaman [release](https://github.com/ArnNied/kultura/releases) untuk menginstal versi spesifik _atau_ diunduh melalui tautan dibawah ini untuk mengunduh versi terbaru:
 
 - Windows: [Unduh Game](https://github.com/ArnNied/kultura/releases/latest/download/kultura.rar) | [Panduan Instalasi](./INSTALASI_WINDOWS.md)
 - Android: [Unduh Game](https://github.com/ArnNied/kultura/releases/latest/download/kultura.apk) | [Panduan Instalasi](./INSTALASI_ANDROID.md)
@@ -20,4 +20,16 @@ Game edukasi Kultura dibuat oleh **Andrien Wiandyano** sebagai bahan penulisan s
 
 ## Credits
 
-Jika anda tertarik dengan atribusi yang lebih komprehensif dibandingkan dengan yang ada di dalam game, atribusi tersebut bisa dilihat pada file [credits.json](./credits.json) yang ada di root repositori ini.
+Jika Anda tertarik dengan atribusi yang lebih komprehensif dibandingkan dengan yang ada di dalam game, atribusi tersebut bisa dilihat pada file [credits.json](./credits.json) yang ada di root repositori ini.
+
+**Jika ada suatu kesalahan, Anda bisa hubungi Saya melalui salah satu kontak dibawah ini**
+
+## Kontak
+
+Anda bisa menghubungi email [andrienw.03@gmail.com](mailto:andrienw.03@gmail.com) jika ada keperluan:
+
+- Gambar/Foto/Aset Anda digunakan namun nama Anda tidak ada di kredit
+- Gambar/Foto/Aset Anda tidak ingin digunakan
+- Pertanyaan mengenai game atau source code
+- Memberi kritik dan saran
+- dll.
