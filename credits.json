@@ -24,6 +24,20 @@
         "material": { "name": "\"Konsultan\", Playtester" }
       },
       {
+        "author": {
+          "name": "Bintang Arif Ramadhan",
+          "url": "https://www.instagram.com/bintangarifrma/"
+        },
+        "material": { "name": "Playtester" }
+      },
+      {
+        "author": {
+          "name": "Ryan Harrys",
+          "url": ""
+        },
+        "material": { "name": "Playtester" }
+      },
+      {
         "material": { "name": "Dan lebih banyak lagi..." }
       }
     ]
@@ -332,7 +346,7 @@
           "name": "Pixabay License",
           "url": "https://pixabay.com/service/license-summary/"
         },
-        "modifications": "-"
+        "modifications": "Trimmed the start and/or end of the music to fit the game better."
       },
       {
         "source": "Pixabay",
@@ -348,7 +362,7 @@
           "name": "Pixabay License",
           "url": "https://pixabay.com/service/license-summary/"
         },
-        "modifications": "-"
+        "modifications": "Trimmed the start and/or end of the music to fit the game better."
       },
       {
         "source": "Pixabay",
@@ -364,7 +378,7 @@
           "name": "Pixabay License",
           "url": "https://pixabay.com/service/license-summary/"
         },
-        "modifications": "-"
+        "modifications": "Trimmed the start and/or end of the music to fit the game better."
       }
     ]
   },
@@ -373,147 +387,185 @@
     "content": [
       {
         "source": "Openverse",
-        "author": {
-          "name": "Naval Scene",
-          "url": ""
-        },
-        "material": {
-          "name": "Kebaya Encim Betawi 20240622 121405",
-          "url": ""
-        },
+        "author": { "name": "Naval Scene" },
+        "material": { "name": "Kebaya Encim Betawi 20240622 121405" },
         "license": {
           "name": "CC BY-SA 4.0",
-          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
-        },
-        "modifications": "-"
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
       },
       {
         "source": "Openverse",
-        "author": {
-          "name": "Herusutimbul",
-          "url": ""
-        },
-        "material": {
-          "name": "Warna Warni Ondel Ondel Betawi",
-          "url": ""
-        },
+        "author": { "name": "Herusutimbul" },
+        "material": { "name": "Warna Warni Ondel Ondel Betawi" },
         "license": {
           "name": "CC BY-SA 4.0",
-          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
-        },
-        "modifications": "-"
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
       },
       {
         "source": "Openverse",
-        "author": {
-          "name": "Swarabakti",
-          "url": ""
-        },
-        "material": {
-          "name": "Bir Pletok (closeup, white bg)",
-          "url": ""
-        },
+        "author": { "name": "Swarabakti" },
+        "material": { "name": "Bir Pletok (closeup, white bg)" },
         "license": {
           "name": "CC BY-SA 4.0",
-          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
-        },
-        "modifications": "-"
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
       },
       {
         "source": "Openverse",
-        "author": {
-          "name": "Piknikdong",
-          "url": ""
-        },
-        "material": {
-          "name": "Gado gado jakarta",
-          "url": ""
-        },
+        "author": { "name": "Piknikdong" },
+        "material": { "name": "Gado gado jakarta" },
         "license": {
           "name": "CC BY-SA 4.0",
-          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
-        },
-        "modifications": "-"
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
       },
       {
         "source": "Openverse",
-        "author": {
-          "name": "Sakurai Midori",
-          "url": ""
-        },
-        "material": {
-          "name": "Gado gado ulek",
-          "url": ""
-        },
+        "author": { "name": "Sakurai Midori" },
+        "material": { "name": "Gado gado ulek" },
         "license": {
           "name": "CC BY-SA 4.0",
-          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
-        },
-        "modifications": "-"
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
       },
       {
         "source": "Openverse",
-        "author": {
-          "name": "Windi Utari",
-          "url": ""
-        },
-        "material": {
-          "name": "BUMBU GADO-GADO",
-          "url": ""
-        },
+        "author": { "name": "Windi Utari" },
+        "material": { "name": "BUMBU GADO-GADO" },
         "license": {
           "name": "CC BY-SA 4.0",
-          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
-        },
-        "modifications": "-"
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
       },
       {
         "source": "Openverse",
-        "author": {
-          "name": "Hzu Hzu",
-          "url": ""
-        },
-        "material": {
-          "name": "Kue cucur.2",
-          "url": ""
-        },
+        "author": { "name": "Hzu Hzu" },
+        "material": { "name": "Kue cucur.2" },
         "license": {
           "name": "CC BY-SA 4.0",
-          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
-        },
-        "modifications": "-"
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
       },
       {
         "source": "Openverse",
-        "author": {
-          "name": "Akhmad Fauzi",
-          "url": ""
-        },
-        "material": {
-          "name": "File:Masjid Luar Batang - panoramio.jpg",
-          "url": ""
-        },
+        "author": { "name": "Akhmad Fauzi" },
+        "material": { "name": "File:Masjid Luar Batang - panoramio.jpg" },
         "license": {
           "name": "CC BY 3.0",
-          "url": "https://creativecommons.org/licenses/by/3.0?ref=openverse"
-        },
-        "modifications": "-"
+          "url": "https://creativecommons.org/licenses/by/3.0"
+        }
       },
       {
         "source": "Openverse",
-        "author": {
-          "name": "Tania Shab'hatiani",
-          "url": ""
-        },
-        "material": {
-          "name": "Rumah Adat Kebaya dari Jakarta",
-          "url": ""
-        },
+        "author": { "name": "Tania Shab'hatiani" },
+        "material": { "name": "Rumah Adat Kebaya dari Jakarta" },
         "license": {
           "name": "CC BY-SA 4.0",
-          "url": "https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse"
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "source": "Openverse",
+        "author": { "name": "Winara al gayo" },
+        "material": { "name": "Persiapan Tari Saman" },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "source": "Openverse",
+        "author": { "name": "Gunawan Kartapranata" },
+        "material": { "name": "File:Kopi Luwak Gayo, Takengon, Aceh.jpg" },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "source": "Openverse",
+        "author": { "name": "Harvmi" },
+        "material": { "name": "Mi aceh" },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "source": "Openverse",
+        "author": { "name": "Pandu Aji Wirawan" },
+        "material": { "name": "Penjual Mie Aceh" },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "source": "Openverse",
+        "author": { "name": "Si Gam" },
+        "material": { "name": "Timphan Asoe Kaya" },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "source": "Openverse",
+        "author": { "name": "Adhi Rachdian" },
+        "material": { "name": "Masjid Raya Baiturrahman - Banda Aceh" },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "source": "Openverse",
+        "author": { "name": "Si Gam Acèh" },
+        "material": { "name": "Rumoh Aceh 2" },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "source": "Openverse",
+        "author": { "name": "Desi Arida" },
+        "material": { "name": "Dendang Canang dari Singkil" },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "source": "Openverse",
+        "author": { "name": "Indo Magic" },
+        "material": {
+          "name": "Traditional Family Pusaka Heirloom Set of 2 Rencong Daggers from Aceh"
         },
-        "modifications": "-"
+        "license": {
+          "name": "CC BY 2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/"
+        }
+      },
+      {
+        "source": "Openverse",
+        "author": { "name": "fckjhon" },
+        "material": { "name": "cut-nyak-dhien-419x555" },
+        "license": {
+          "name": "CC BY 2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/"
+        }
+      },
+      {
+        "source": "Openverse",
+        "author": { "name": "Herusutimbul" },
+        "material": { "name": "Tari Saman di TMII" },
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
       }
     ]
   }
