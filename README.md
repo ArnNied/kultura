@@ -26,7 +26,7 @@ Jika Anda tertarik dengan atribusi yang lebih komprehensif dibandingkan dengan y
 
 ## Kontak
 
-Anda bisa menghubungi email [andrienw.03@gmail.com](mailto:andrienw.03@gmail.com) jika ada keperluan:
+Anda bisa menghubungi email [arnnied03@gmail.com](mailto:arnnied03@gmail.com) jika ada keperluan:
 
 - Gambar/Foto/Aset Anda digunakan namun nama Anda tidak ada di kredit
 - Gambar/Foto/Aset Anda tidak ingin digunakan karena suatu alasan
