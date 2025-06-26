@@ -29,7 +29,9 @@ Jika Anda tertarik dengan atribusi yang lebih komprehensif dibandingkan dengan y
 Anda bisa menghubungi email [andrienw.03@gmail.com](mailto:andrienw.03@gmail.com) jika ada keperluan:
 
 - Gambar/Foto/Aset Anda digunakan namun nama Anda tidak ada di kredit
-- Gambar/Foto/Aset Anda tidak ingin digunakan
+- Gambar/Foto/Aset Anda tidak ingin digunakan karena suatu alasan
 - Pertanyaan mengenai game atau source code
+- Kesalahan pada pertanyaan/soal dan jawaban
+- Kesalahan atau ketidak akuratan data pada satu atau lebih "arsip"
 - Memberi kritik dan saran
 - dll.
