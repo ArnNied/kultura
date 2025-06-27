@@ -1,5 +1,7 @@
 # Proses Instalasi Game Kultura (Android)
 
+🎮 **Kultura** adalah game edukasi bertema fantasi yang dibuat sebagai **usaha pelestarian budaya di Indonesia** dengan cara menyediakan sistem informasi di dalam game dengan bentuk bacaan artikel dan tempat untuk mengasah pengetahuan tersebut melalui kuis dengan tema petualangan.
+
 **1. Unduh versi terbaru melalui tautan berikut ini: [Unduh Game](https://github.com/ArnNied/kultura/releases/latest/download/kultura.apk)**
 
 **2a. Buka/jalankan .apk tersebut melalui rak notifikasi, ATAU**
