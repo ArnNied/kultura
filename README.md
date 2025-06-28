@@ -1,5 +1,9 @@
 # Kultura
 
+<center>
+<img src="./markdown/windows/play.png" width="500"/>
+</center>
+
 **Kultura** adalah game edukasi bertema fantasi yang dibuat sebagai usaha **pelestarian budaya di Indonesia** dengan cara menyediakan sistem informasi di dalam game dengan bentuk bacaan artikel dan tempat untuk mengasah pengetahuan tersebut melalui kuis dengan tema petualangan.
 
 Game edukasi Kultura dibuat oleh **Andrien Wiandyano** sebagai bahan penulisan skripsi di **Universitas Bina Sarana Informatika**
